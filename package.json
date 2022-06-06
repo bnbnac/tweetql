@@ -19,7 +19,8 @@
   "homepage": "https://github.com/bnbnac/tweetql#readme",
   "dependencies": {
     "apollo-server": "^3.8.1",
-    "graphql": "^16.5.0"
+    "graphql": "^16.5.0",
+    "node-fetch": "^3.2.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
